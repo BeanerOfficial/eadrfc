@@ -4,12 +4,12 @@ local Window = OrionLib:MakeWindow({Name = "Key System", HidePremium = false, Sa
 
 OrionLib:MakeNotification({
 	Name = "Logged In!",
-	Content = "You arelogged in as "..Player.Name..".",
+	Content = "You are logged in as "..Player.Name..".",
 	Image = "rbxassetid://4483345998",
 	Time = 5
 })
 
-_G.Key = "Grpo Sucks Dick"
+_G.Key = "Hamburger"
 _G.KeyInput = "string"
 
 function MakeScriptHub()
